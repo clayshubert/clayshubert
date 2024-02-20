@@ -15,7 +15,7 @@
 <p> I am a Security Engineer and currently a Graduate Student at the University of Tennessee-Knoxville </p>
 <ul>
    <li>My profile has a collection of personal projects and school related projects</li>
-  <li>Follow me on LinkedIn <a href="(https://www.linkedin.com/in/clayshubert/"><img src="https://img.shields.io/badge/-clayshubert-blue?style=flat&logo=Linkedin&logoColor=white"/></a></li>
+  <li>Follow me on LinkedIn <a href="(https://www.linkedin.com/in/clayshubert/" target="_blank"><img src="https://img.shields.io/badge/-clayshubert-blue?style=flat&logo=Linkedin&logoColor=white"/></a></li>
 </ul>
 
 
